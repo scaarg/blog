@@ -269,7 +269,6 @@ nav {
     margin-left: 20px;
     color: $orange;
     text-align: right;
-    font-weight: bold;
     letter-spacing: -1px;
 
     @include mobile {
@@ -309,7 +308,6 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
-    font-weight: bold;
   }
 }
 
