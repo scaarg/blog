@@ -20,16 +20,16 @@
 }
 
 @font-face {
-  font-family: "Kumbh Sans";
-  src: url(/fonts/KumbhSans-Bold.ttf);
-  font-weight: 700;
+  font-family: "Lexend";
+  src: url(/fonts/Lexend-Regular.ttf);
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 $systemFont: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
   Ubuntu, sans-serif;
-$headerFont: "Kumbh Sans", sans-serif;
+$headerFont: "Lexend", sans-serif;
 
 // COLORS
 $blue: #2f64df;
